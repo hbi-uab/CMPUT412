@@ -1,7 +1,6 @@
-# Template: template-basic
+# This is HAIYUE BI CMPUT 412 Repository
 
-This template provides a boilerplate repository for developing non-ROS software
-in Duckietown.
+Currently using the Duckietown boilerplate repository for developing non-ROS software in Duckietown.
 
 **NOTE:** If you want to develop software that uses ROS, check out
 [this template](https://github.com/duckietown/template-ros).
